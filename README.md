@@ -1,6 +1,6 @@
 # Fundamental Analysis Dashboard
 
-Here we are automating a method called fundamental analysis to pick the best stocks to invest in any given sector. Essentially, a Visual Dashboard which will pick the top stocks for us depending on the underlying grading algorithm.
+Here we are automating a method called fundamental analysis to pick the best stocks to invest in any given sector. Essentially, a screener which will pick the top stocks for us depending on the underlying grading algorithm.
     
 ## Overview of Data
 
